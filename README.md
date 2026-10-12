@@ -83,7 +83,7 @@ A compatible, legally obtained copy of the original game is required.
 - 🎥 **Classic camera:** enjoy the traditional third-person perspective.
 - 🧸 **Miniature camera:** an additional perspective for experiencing the environment.
 - 🔄 **Camera switching:** change between different views during gameplay.
-- 📐 **Adjustable 3D depth:** change the depth using the right joystick.
+- 📐 **Adjustable 3D scale:** change the scale using the right joystick.
 - 🎯 **View recentering:** recenter your VR view whenever needed.
 - ⚡ **Crazy Dash:** use the game's special acceleration moves.
 - 💨 **Crazy Drift:** drift through corners at high speed.
