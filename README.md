@@ -237,7 +237,7 @@ Below you will find the complete controller mapping images in ten languages.
 
 ### 🇬🇧 ENGLISH
 
-<img width="1672" height="941" alt="ing" src="https://github.com/user-attachments/assets/249a0d6d-eb7b-461e-acac-211ce9e9e9ad" />
+<img width="1672" height="941" alt="ing" src="https://github.com/user-attachments/assets/16054895-cf99-424f-9da7-2606dcc5b3a6" />
 
 ---
 
